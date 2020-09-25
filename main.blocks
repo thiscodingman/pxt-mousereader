@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id=".?!FSkQ?2is|jpCrB1^D"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="mouseClick" id="RqpwO[~z|rg`^HY544pM"><field name="button">MouseButton.Left</field></block></next></block></statement></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id=".?!FSkQ?2is|jpCrB1^D"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="mouseClick" id="RqpwO[~z|rg`^HY544pM"><field name="button">MouseButton.Left</field><next><block type="mouseMove" id="su:mHOa*b[$+ATu;j,6#"><value name="x"><shadow type="math_number_minmax" id="M-1W4OkJ`JuUB;CM?~g0"><mutation min="-128" max="127" label="X" precision="0"/><field name="SLIDER">0</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="-]Ei3Y;g,iE+e_mP6UTd"><mutation min="-128" max="127" label="Y" precision="0"/><field name="SLIDER">0</field></shadow></value></block></next></block></next></block></statement></block></xml>
