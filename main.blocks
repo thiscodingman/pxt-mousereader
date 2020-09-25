@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id=".?!FSkQ?2is|jpCrB1^D"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id=".?!FSkQ?2is|jpCrB1^D"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="mouseClick" id="RqpwO[~z|rg`^HY544pM"><field name="button">MouseButton.Left</field></block></next></block></statement></block></xml>

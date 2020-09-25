@@ -2,7 +2,8 @@
     "name": "test",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "mouse": "*"
     },
     "files": [
         "main.blocks",
