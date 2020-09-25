@@ -19,4 +19,3 @@ let mySprite = sprites.create(img`
 mouse.click(MouseButton.Left)
 mouse.move(0, 0)
 
-document.addEventListener(type: "mousedown", listener: (ev: MouseEvent) => any, useCapture?: boolean): void;
